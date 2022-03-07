@@ -6,7 +6,7 @@ namespace Part1Basics
     {
         static void Main(string[] args)
         {
-            // Jonathan
+            // Jonathan Cheung-Budd
             string firstName = "Jonathan";
             string favMovie = "THE MATRIX";
             Console.WriteLine("Hello " + firstName.ToLower() + ", your favorite movie is " + favMovie.ToLower());
